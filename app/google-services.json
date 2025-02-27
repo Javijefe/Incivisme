@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645799925136",
+    "firebase_url": "https://incivisme-ec184-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "incivisme-ec184",
+    "storage_bucket": "incivisme-ec184.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645799925136:android:f7cbc937eecf55fe6ecf15",
+        "android_client_info": {
+          "package_name": "com.example.incivisme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645799925136-m3sgrdomqoetig2d4milrtu8hmu2uhuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu40nlL2_iucQeTLUINFlnZQIs_HPOubw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645799925136-m3sgrdomqoetig2d4milrtu8hmu2uhuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
